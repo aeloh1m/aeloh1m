@@ -17,11 +17,7 @@ Name's Aelohim, shorter is Elo! I'm a person whoo works as a back-end developer 
 I love learning new stuff or doing colabs so if you're interested in doing something either bizarre, cool or world changing, call me! 
 My main mission over here is to show proyects I've been working on or anything related to coding (duh), so stay tuned.
 
-<br>
 
-## 📌 Pinned Repositories
-
-<!-- Pinned Repositories -- >
 
 <br>
 
