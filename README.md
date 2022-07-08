@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Aelohim's GitHub Banner](https://user-images.githubusercontent.com/88952319/178077729-a42db5c3-5b5e-4eed-b9b5-9e05c5441812.png)
+[![Aelohim's GitHub Banner](https://user-images.githubusercontent.com/88952319/178077729-a42db5c3-5b5e-4eed-b9b5-9e05c5441812.png)]
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aelohim/)
@@ -28,6 +28,8 @@ My main mission over here is to show proyects I've been working on or anything r
 <a href="https://github.com/aeloh1m/ReactJS-mini-app.git">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aeloh1m&repo=officeapi&title_color=ffffff&text_color=F7F300&icon_color=7A609E&bg_color=1A1B27" />
 </a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeloh1m&repo=ReactJS-mini-app)](https://github.com/aeloh1m/ReactJS-mini-app.git)
 
 <br>
 
