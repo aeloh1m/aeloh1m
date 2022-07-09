@@ -25,10 +25,10 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeloh1m&repo=ReactJS-mini-app&text_color=908C3D&title_color=910079&bg_color=1A1B27&border_color=3D1179)](https://github.com/aeloh1m/ReactJS-mini-app.git)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeloh1m&repo=ReactJS-mini-app&text_color=908C3D&title_color=910079&bg_color=1A1B27&border_color=3D1179)](https://github.com/aeloh1m/ReactJS-mini-app.git)&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeloh1m&repo=Trabajo-Pr-ctico-N-1-AySO&text_color=908C3D&title_color=910079&bg_color=1A1B27&border_color=3D1179)](https://github.com/aeloh1m/Trabajo-Pr-ctico-N-1-AySO)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeloh1m&repo=tup-lc2-clima-app&text_color=908C3D&title_color=910079&bg_color=1A1B27&border_color=3D1179)](https://github.com/aeloh1m/tup-lc2-clima-app)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeloh1m&repo=tup-lc2-clima-app&text_color=908C3D&title_color=910079&bg_color=1A1B27&border_color=3D1179)](https://github.com/aeloh1m/tup-lc2-clima-app)&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeloh1m&repo=Practica4-tkinter-app&text_color=908C3D&title_color=910079&bg_color=1A1B27&border_color=3D1179)](https://github.com/aeloh1m/Practica4-tkinter-app)
 
 <br>
@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/aeloh1m">
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/aeloh1m">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeloh1m&repo=officeapi&title_color=ffffff&text_color=908C3D&icon_color=7A609E&bg_color=1A1B27&border_color=3D1179" />
 </a>
 
