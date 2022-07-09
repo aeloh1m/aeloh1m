@@ -41,7 +41,8 @@ You can click the Preview link to take a look at your changes.
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/aeloh1m">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeloh1m&repo=officeapi&title_color=ffffff&text_color=908C3D&icon_color=7A609E&bg_color=1A1B27&border_color=3D1179" />
 </a>
-
+<!--- ![Aelohim's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeloh1m&show_icons=true&theme=radical&text_color=908C3D&title_color=910079&bg_color=1A1B27&border_color=3D1179)
+--->
 <br>
 
 
