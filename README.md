@@ -26,10 +26,10 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeloh1m&repo=ReactJS-Counter-App&text_color=908C3D&title_color=910079&bg_color=1A1B27&border_color=3D1179)](https://github.com/aeloh1m/ReactJS-Counter-App.git)&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeloh1m&repo=Trabajo-Pr-ctico-N-1-AySO&text_color=908C3D&title_color=910079&bg_color=1A1B27&border_color=3D1179)](https://github.com/aeloh1m/Trabajo-Pr-ctico-N-1-AySO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeloh1m&repo=Operating-Systems-Docker-Deployment&text_color=908C3D&title_color=910079&bg_color=1A1B27&border_color=3D1179)](https://github.com/aeloh1m/Operating-Systems-Docker-Deployment)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeloh1m&repo=tup-lc2-clima-app&text_color=908C3D&title_color=910079&bg_color=1A1B27&border_color=3D1179)](https://github.com/aeloh1m/tup-lc2-clima-app)&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeloh1m&repo=Practica4-tkinter-app&text_color=908C3D&title_color=910079&bg_color=1A1B27&border_color=3D1179)](https://github.com/aeloh1m/Practica4-tkinter-app)
+&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeloh1m&repo=Weather-App&text_color=908C3D&title_color=910079&bg_color=1A1B27&border_color=3D1179)](https://github.com/aeloh1m/Weather-App)&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeloh1m&repo=Tkinter-App-Dog-Hair-Salon&text_color=908C3D&title_color=910079&bg_color=1A1B27&border_color=3D1179)](https://github.com/aeloh1m/Tkinter-App-Dog-Hair-Salon)
 
 <br>
 
