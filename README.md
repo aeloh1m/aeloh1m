@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 &nbsp;&nbsp;&nbsp; Hello there! 👋
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ Name's Aelohim, shorter is Elo! I'm a person who works as a back-end developer and as an artist in my free time, creativeness is &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;usually the main trend I follow. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ Name's Aelohim, shorter is Elo! I'm a person who works as a software developer and as an artist in my free time, creativeness is &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;usually the main trend I follow. <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ I love learning new stuff or doing colabs so if you're interested in doing something either bizarre, cool or world changing, [call me!](#feel-free-to-contact-me)<br>
 
