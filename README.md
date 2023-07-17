@@ -25,11 +25,11 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeloh1m&repo=ReactJS-Counter-App&text_color=908C3D&title_color=910079&bg_color=1A1B27&border_color=3D1179)](https://github.com/aeloh1m/ReactJS-Counter-App.git)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeloh1m&repo=Saturno_Front&text_color=908C3D&title_color=910079&bg_color=1A1B27&border_color=3D1179)](https://github.com/aeloh1m/Saturno_Front)&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeloh1m&repo=Operating-Systems-Docker-Deployment&text_color=908C3D&title_color=910079&bg_color=1A1B27&border_color=3D1179)](https://github.com/aeloh1m/Operating-Systems-Docker-Deployment)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeloh1m&repo=Weather-App&text_color=908C3D&title_color=910079&bg_color=1A1B27&border_color=3D1179)](https://github.com/aeloh1m/Weather-App)&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeloh1m&repo=Tkinter-App-Dog-Hair-Salon&text_color=908C3D&title_color=910079&bg_color=1A1B27&border_color=3D1179)](https://github.com/aeloh1m/Tkinter-App-Dog-Hair-Salon)
+&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeloh1m&repo=Saturno-BackEnd&text_color=908C3D&title_color=910079&bg_color=1A1B27&border_color=3D1179)](https://github.com/aeloh1m/Saturno-BackEnd)&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeloh1m&repo=Traductor-juegos-universal&text_color=908C3D&title_color=910079&bg_color=1A1B27&border_color=3D1179)](https://github.com/aeloh1m/Traductor-juegos-universal)
 
 <br>
 
