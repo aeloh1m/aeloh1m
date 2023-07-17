@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ I love learning new stuff or doing colabs so if you're interested in doing something either bizarre, cool or world changing, [call me!](#feel-free-to-contact-me)<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ My main mission over here is to show proyects I've been working on or anything related to coding (duh), so stay tuned.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ My main mission over here is to show proyects I've been working on or anything related to coding, so stay tuned.
 
 <br>
 
