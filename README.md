@@ -49,4 +49,4 @@ You can click the Preview link to take a look at your changes.
 ##  Feel free to contact me:
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=blue&color=0D76A8)](https://www.linkedin.com/in/aelohim/)&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-Mail-informational?style=for-the-badge&logo=Gmail&logoColor=red&color=D93025)](mailto:melowgz@gmail.com)
+&nbsp;&nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-Mail-informational?style=for-the-badge&logo=Gmail&logoColor=red&color=D93025)](mailto:agraizzarodev@gmail.com)
