@@ -5,48 +5,30 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![Aelohim's GitHub Banner](https://user-images.githubusercontent.com/88952319/178077729-a42db5c3-5b5e-4eed-b9b5-9e05c5441812.png)
 
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFxNjBpb3F4bTZrbGlsanNlbGQ2c24yOHY2ZXhlbzFtYTJ1Y2N2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zXmbOaTpbY6mA/giphy.gif" width="1025" height="250"/>
 
+<p align="left" style="font-size:200px" >Agent number: <p/>
 
-<br>
-
-&nbsp;&nbsp;&nbsp; Hello there! 👋
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ Name's Aelohim, shorter is Elo! I'm a person who works as a software developer and as an artist in my free time, creativeness is &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;usually the main trend I follow. <br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ I love learning new stuff or doing colabs so if you're interested in doing something either bizarre, cool or world changing, [call me!](#feel-free-to-contact-me)<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ My main mission over here is to show proyects I've been working on or anything related to coding, so stay tuned.
+<img align="center" src="https://profile-counter.glitch.me/{aeloh1m}/count.svg" width="250" height="35"/>
 
 <br>
-
-## 📌 Pinned Repositories
-
-<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeloh1m&repo=Saturno_Front&text_color=908C3D&title_color=910079&bg_color=1A1B27&border_color=3D1179)](https://github.com/aeloh1m/Saturno_Front)&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeloh1m&repo=Operating-Systems-Docker-Deployment&text_color=908C3D&title_color=910079&bg_color=1A1B27&border_color=3D1179)](https://github.com/aeloh1m/Operating-Systems-Docker-Deployment)
-
-&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeloh1m&repo=Saturno-BackEnd&text_color=908C3D&title_color=910079&bg_color=1A1B27&border_color=3D1179)](https://github.com/aeloh1m/Saturno-BackEnd)&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aeloh1m&repo=Traductor-juegos-universal&text_color=908C3D&title_color=910079&bg_color=1A1B27&border_color=3D1179)](https://github.com/aeloh1m/Traductor-juegos-universal)
-
-<br>
-
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/aeloh1m">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeloh1m&repo=officeapi&title_color=ffffff&text_color=908C3D&icon_color=7A609E&bg_color=1A1B27&border_color=3D1179" />
+<a href="https://github.com/aeloh1m">
+  <img align="right"  style="padding-top:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeloh1m&repo=officeapi&title_color=00A209&text_color=B5FFD8&icon_color=7A609E&bg_color=000000&border_color=00FF09&hide_progress=true" />
 </a>
-<!--- ![Aelohim's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeloh1m&show_icons=true&theme=radical&text_color=908C3D&title_color=910079&bg_color=1A1B27&border_color=3D1179)
---->
+
+###
+✔ Name's Aelohim, shorter is Elo. I'm a software developer and an artist in my free time. <br>
+
+✔ I love learning new stuff or doing collabs so if you're interested feel free to [contact me.](#contact)<br>
+
+✔ My main mission over here is to show proyects I've been working on, so stay tuned.
+
 <br>
 
 
-##  Feel free to contact me:
 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=blue&color=0D76A8)](https://www.linkedin.com/in/aelohim/)&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-Mail-informational?style=for-the-badge&logo=Gmail&logoColor=red&color=D93025)](mailto:agraizzarodev@gmail.com)
+##  Contact:
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=43DD70&color=43DD70)](https://www.linkedin.com/in/aelohim/)&nbsp;&nbsp;&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-Mail-informational?style=for-the-badge&logo=Gmail&logoColor=257D40&color=257D40)](mailto:agraizzarodev@gmail.com)
