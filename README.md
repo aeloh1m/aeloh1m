@@ -13,9 +13,7 @@ You can click the Preview link to take a look at your changes.
 <img align="center" src="https://profile-counter.glitch.me/{aeloh1m}/count.svg" width="250" height="35"/>
 
 <br>
-<a href="https://github.com/aeloh1m">
-  <img align="right"  style="padding-top:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeloh1m&repo=officeapi&title_color=00A209&text_color=B5FFD8&icon_color=7A609E&bg_color=000000&border_color=00FF09&hide_progress=true" />
-</a>
+
 
 ###
 ✔ Name's Aelohim, shorter is Elo. I'm a software developer and an artist in my free time. <br>
@@ -25,6 +23,12 @@ You can click the Preview link to take a look at your changes.
 ✔ My main mission over here is to show proyects I've been working on, so stay tuned.
 
 <br>
+
+## 
+
+<a href="https://github.com/aeloh1m">
+  <img align="center"  style="padding-top:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeloh1m&repo=officeapi&title_color=00A209&text_color=B5FFD8&icon_color=7A609E&bg_color=000000&border_color=00FF09&hide_progress=true" />
+</a>
 
 
 
