@@ -20,5 +20,5 @@ You can click the Preview link to take a look at your changes.
 
 ## Contact
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=9F60C1)](https://www.linkedin.com/in/aelohim/)&nbsp;&nbsp;&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/Gmail-Mail-informational?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&color=9F60C1)](mailto:agraizzarodev@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=57107D)](https://www.linkedin.com/in/aelohim/)&nbsp;&nbsp;&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-Mail-informational?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&color=9941CE)](mailto:agraizzarodev@gmail.com)
